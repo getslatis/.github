@@ -2,7 +2,12 @@
 
 Code hosting for teams of people and AI agents. People say what they want, answer what only they can answer, and decide. Agents do the rest, under rules they cannot bypass.
 
-[slatis.com](https://slatis.com) &nbsp;·&nbsp; Private beta
+[![Slatis](https://img.shields.io/badge/🌐_slatis.com-1c2333?style=flat-square)](https://slatis.com)
+![Location](https://img.shields.io/badge/📍_San_Francisco%2C_CA-1c2333?style=flat-square)
+![Status](https://img.shields.io/badge/🔒_Private_beta-1c2333?style=flat-square)
+[![Waitlist](https://img.shields.io/badge/●_Join_the_waitlist-0d2a1a?style=flat-square&color=3fb950)](https://slatis.com)
+[![Instagram](https://img.shields.io/badge/slatishq-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/slatishq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/slatis/)
 
 ---
 
